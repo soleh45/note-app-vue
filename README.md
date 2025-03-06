@@ -35,7 +35,5 @@ npm run build
 ![mobile 5](https://github.com/user-attachments/assets/d8d10a00-b165-4929-bd5e-fad33352cc3f)
 ![mobile 3](https://github.com/user-attachments/assets/adbf4f0c-c057-449c-82b3-365111add4bf)
 ![mobile 2](https://github.com/user-attachments/assets/b191c51e-a81a-4a55-b79b-391f58de3405)
-
-
-  
+![deleted](https://github.com/user-attachments/assets/25c7ca0f-5db9-4431-b3c3-701c6673b4ce)
 
